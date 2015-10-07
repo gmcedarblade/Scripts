@@ -19,7 +19,9 @@ echo "<!DOCTYPE html>
     <h1>Hello World</h1>
 
   <body>
-
+   <p>
+    Hello world!
+   </p>
   </body>
 </html>" > index.html
 
